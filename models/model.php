@@ -21,7 +21,6 @@ function getLesLiens() {
 }
 function getDistribution($Notes) {
    
- 
 
         $stat = array(
             '0-4' => 0,
